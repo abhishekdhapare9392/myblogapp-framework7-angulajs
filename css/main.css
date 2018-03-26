@@ -1,0 +1,15 @@
+/* Add custom styles here */
+
+.list-block {
+    margin: 35px 0;
+    font-size: 14px !important;
+    overflow: hidden !important;
+}
+
+.list-block .item-title {
+    white-space: pre-line !important;
+}
+
+.list-block .item-text {
+    height: 54px !important;
+}
